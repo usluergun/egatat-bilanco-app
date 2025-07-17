@@ -1,0 +1,28 @@
+{
+  "kullanici": "ergun",
+  "yil": 2025,
+  "ay": "07",
+  "baslangic_kasa": 100000.0,
+  "bitis_kasa": 100000.0,
+  "nakit_akim_giris": {
+    "Dönem Net Kârı (Zararı)": 0.0,
+    "Amortisman ve İtfa Payları": 0.0,
+    "Karşılıklar": 0.0,
+    "Faiz Giderleri": 0.0,
+    "Faiz Gelirleri": 0.0,
+    "Alacaklardaki Değişim": 0.0,
+    "Stoklardaki Değişim": 0.0,
+    "Borçlardaki Değişim": 0.0,
+    "Diğer Faaliyet Gelir/Giderleri": 0.0,
+    "Maddi Duran Varlık Alımları": 0.0,
+    "Maddi Duran Varlık Satışları": 0.0,
+    "Diğer Yatırım Giriş/Çıkışları": 0.0,
+    "Kredi Kullanımı": 0.0,
+    "Kredi Geri Ödemeleri": 0.0,
+    "Sermaye Artırımı": 0.0,
+    "Temettü Ödemeleri": 0.0,
+    "Diğer Finansman Giriş/Çıkışları": 0.0
+  },
+  "toplam": 0,
+  "tarih": "2025-07-17 14:51:44.438223"
+}
